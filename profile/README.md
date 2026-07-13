@@ -26,78 +26,76 @@
 <tr>
 <td width="50%" valign="top">
 
-### bomia
+<a href="https://shud.com.br"><img src="./assets/prod-bomia.svg" alt="bomia" width="100%"></a>
+
 Solução em monitoramento industrial.
+
 `IA` `IoT` `Robótica` `Visão Computacional`
 
-[→ shud.com.br](https://shud.com.br)
-
 </td>
 <td width="50%" valign="top">
 
-### Vocalia
+<a href="https://shud.com.br"><img src="./assets/prod-vocalia.svg" alt="Vocalia" width="100%"></a>
+
 Central telefônica com inteligência artificial.
+
 `Chamadas telefone/WhatsApp ilimitadas e simultâneas`
 
-[→ shud.com.br](https://shud.com.br)
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Exatocarta
+<a href="https://shud.com.br"><img src="./assets/prod-exatocarta.svg" alt="Exatocarta" width="100%"></a>
+
 Geração automatizada de minutas notariais.
+
 `Cartórios` `IA` `SaaS`
 
-[→ shud.com.br](https://shud.com.br)
-
 </td>
 <td width="50%" valign="top">
 
-### CNTV
+<a href="https://shud.com.br"><img src="./assets/prod-cntv.svg" alt="CNTV" width="100%"></a>
+
 Consulta veicular para cartórios.
+
 `15.000+ consultas/dia`
 
-[→ shud.com.br](https://shud.com.br)
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### BrukTracker
+<a href="https://shud.com.br"><img src="./assets/prod-bruktracker.svg" alt="BrukTracker" width="100%"></a>
+
 Sistema proprietário de rastreamento veicular em tempo real.
+
 `iOS` `Android` `Web` `IoT`
 
-[→ shud.com.br](https://shud.com.br)
-
 </td>
 <td width="50%" valign="top">
 
-### Shud Eleições
-Análise de dados eleitorais, relatórios estratégicos e monitoramento.
-`Desde 2014`
+<a href="https://shud.com.br"><img src="./assets/prod-eleicoes.svg" alt="Shud Eleições" width="100%"></a>
 
-[→ shud.com.br](https://shud.com.br)
+Análise de dados eleitorais, relatórios estratégicos e monitoramento.
+
+`Desde 2014`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### TibiaGuilds
+<a href="https://shud.com.br"><img src="./assets/prod-tibiaguilds.svg" alt="TibiaGuilds" width="100%"></a>
+
 Plataforma de gestão de guilds para o MMORPG Tibia.
 
-[→ shud.com.br](https://shud.com.br)
-
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### <br>
-Conheça todos os produtos e cases.
-
-**[shud.com.br →](https://shud.com.br)**
+<br><br>
+Conheça todos os produtos e cases em<br>
+<b><a href="https://shud.com.br">shud.com.br →</a></b>
 
 </td>
 </tr>
