@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>Software pragmático.</b> &nbsp;·&nbsp; Belo Horizonte / MG &nbsp;·&nbsp; <a href="https://shud.com.br">shud.com.br</a>
+  Belo Horizonte / MG &nbsp;·&nbsp; <a href="https://shud.com.br">shud.com.br</a>
 </p>
 
 <p align="center">
